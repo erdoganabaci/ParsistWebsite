@@ -159,8 +159,8 @@ header.masthead {
   padding-bottom: 100px;
   color: white;
   background: url("../img/bg-pattern.png"), #7b4397;
-  background: url("../img/bg-pattern.png"), -webkit-gradient(linear, right top, left top, from(#7b4397), to(#dc2430));
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430);
+  background: url("../img/bg-pattern.png"), -webkit-gradient(linear, right top, left top, from(#4829B2), to(#6D45C3));
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #6D45C3);
 }
 
 header.masthead .header-content {
@@ -289,7 +289,7 @@ section.features .feature-item i {
 section.cta {
   position: relative;
   padding: 250px 0;
-  background-image: url("../img/bg-cta.jpg");
+  background-image: url("../img/babalar.jpg");
   background-position: center;
   background-size: cover;
 }
